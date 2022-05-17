@@ -1,5 +1,7 @@
 # Eye Exercise
 
+<a class="dropdown-item" href="https://amandapadgett.github.io/MovingEyes/">See the Eyes Move</a></li>
+
 ## Description:
 
 This project displays two eyes that follow the mouse, wherever it moves on the screen. I changed the eyes to brown, to match my own eyes, and the background to orange, one of my favorite colors.
